@@ -38,7 +38,7 @@
     function esc(v){return String(v).replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#39;");}
     function norm(v){return String(v||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-zA-Z0-9]/g,"").toLowerCase();}
     function parseScoreValue(value){if(value===null||value===undefined||value==="")return null;const text=String(value).trim().toUpperCase();if(text==="E")return 0;if(/^[+-]?\d+$/.test(text))return Number(text);return null;}
-    function playerScoreValue(player){if(!player)return null;const totalScore=parseScoreValue(player.total);if(totalScore!==null)return totalScore;return parseScoreValue(player.today);}
+    function playerScoreValue(player){if(!player)return null;const toParScore=parseScoreValue(player.topar);if(toParScore!==null)return toParScore;const todayScore=parseScoreValue(player.today);if(todayScore!==null)return todayScore;return null;}
     function formatToPar(value){if(value===null||value===undefined)return"Not started";if(value===0)return"E";return value>0?`+${value}`:String(value);}
     function statusLabel(player){if(!player)return"No live feed match";const rawStatus=String(player.status||player.newStatus||"").toUpperCase();if(rawStatus==="A"||rawStatus.startsWith("A"))return"Active";if(rawStatus==="N"||rawStatus.startsWith("N"))return"Not started";if(rawStatus==="F")return"Finished";if(rawStatus==="X"){if(player.thru)return`Thru ${player.thru}`;if(player.round1&&player.round1.roundStatus==="Pre")return player.teetime?`Tee ${player.teetime}`:"Not started";return"Waiting";}if(player.thru)return`Thru ${player.thru}`;return rawStatus||"Waiting";}
     function isNonCountingStarter(player){if(!player)return false;return /(MC|WD|DQ|DNS)/.test([player.status,player.newStatus,player.total,player.today,player.pos].join(" ").toUpperCase());}
@@ -52,4 +52,3 @@
   </script>
 </body>
 </html>
-
