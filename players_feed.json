@@ -1,0 +1,3464 @@
+﻿
+{
+    "players" : [
+      
+
+        {
+          "last_name" : "Ãberg",
+          "first_name" : "Ludvig",
+          "id" : "52955",
+          
+          
+          "countryCode" : "SWE",
+          
+          "countryName" : "Sweden",
+          "display_name" : "L. Ãberg",
+          "name" : "Ludvig Ãberg",
+          "sort_name" : "aberg",
+
+          
+
+          
+          "age" : "26",
+          "birthdate" : "10/31/99",
+          "height" : "6'3\"",
+          "weight" : "190",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_52955.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Berger",
+          "first_name" : "Daniel",
+          "id" : "40026",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "D. Berger",
+          "name" : "Daniel Berger",
+          "sort_name" : "berger",
+
+          
+
+          
+          "age" : "33",
+          "birthdate" : "4/7/1993",
+          "height" : "6'1\"",
+          "weight" : "175",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_40026.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Bhatia",
+          "first_name" : "Akshay",
+          "id" : "56630",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "A. Bhatia",
+          "name" : "Akshay Bhatia",
+          "sort_name" : "bhatia",
+
+          
+
+          
+          "age" : "24",
+          "birthdate" : "1/31/02",
+          "height" : "6'1\"",
+          "weight" : "",
+          "swing" : "Left",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_56630.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Bradley",
+          "first_name" : "Keegan",
+          "id" : "33141",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "K. Bradley",
+          "name" : "Keegan Bradley",
+          "sort_name" : "bradley",
+
+          
+
+          
+          "age" : "39",
+          "birthdate" : "6/7/86",
+          "height" : "6'3\"",
+          "weight" : "190",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_33141.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Brennan",
+          "first_name" : "Michael",
+          "id" : "61522",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "M. Brennan",
+          "name" : "Michael Brennan",
+          "sort_name" : "brennan",
+
+          
+
+          
+          "age" : "24",
+          "birthdate" : "2/9/02",
+          "height" : "6'1\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_61522.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Bridgeman",
+          "first_name" : "Jacob",
+          "id" : "60004",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "J. Bridgeman",
+          "name" : "Jacob Bridgeman",
+          "sort_name" : "bridgeman",
+
+          
+
+          
+          "age" : "26",
+          "birthdate" : "12/6/99",
+          "height" : "5'10\"",
+          "weight" : "170",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_60004.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Burns",
+          "first_name" : "Sam",
+          "id" : "47504",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "S. Burns",
+          "name" : "Sam Burns",
+          "sort_name" : "burns",
+
+          
+
+          
+          "age" : "29",
+          "birthdate" : "7/23/96",
+          "height" : "6'1\"",
+          "weight" : "185",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_47504.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Cabrera",
+          "first_name" : "Ãngel",
+          "id" : "20848",
+          
+          
+          "countryCode" : "ARG",
+          
+          "countryName" : "Argentina",
+          "display_name" : "Ã. Cabrera",
+          "name" : "Ãngel Cabrera",
+          "sort_name" : "cabrera",
+
+          
+
+          
+          "age" : "56",
+          "birthdate" : "9/12/69",
+          "height" : "6'1\"",
+          "weight" : "210",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_20848.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Campbell",
+          "first_name" : "Brian",
+          "id" : "46443",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "B. Campbell",
+          "name" : "Brian Campbell",
+          "sort_name" : "campbell",
+
+          
+
+          
+          "age" : "33",
+          "birthdate" : "3/6/93",
+          "height" : "5'10\"",
+          "weight" : "160",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_46443.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Cantlay",
+          "first_name" : "Patrick",
+          "id" : "35450",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "P. Cantlay",
+          "name" : "Patrick Cantlay",
+          "sort_name" : "cantlay",
+
+          
+
+          
+          "age" : "34",
+          "birthdate" : "3/17/92",
+          "height" : "6'0\"",
+          "weight" : "190",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_35450.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Clark",
+          "first_name" : "Wyndham",
+          "id" : "51766",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "W. Clark",
+          "name" : "Wyndham Clark",
+          "sort_name" : "clark",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "12/9/93",
+          "height" : "6'0\"",
+          "weight" : "172",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_51766.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Conners",
+          "first_name" : "Corey",
+          "id" : "39997",
+          
+          
+          "countryCode" : "CAN",
+          
+          "countryName" : "Canada",
+          "display_name" : "C. Conners",
+          "name" : "Corey Conners",
+          "sort_name" : "conners",
+
+          
+
+          
+          "age" : "34",
+          "birthdate" : "1/6/92",
+          "height" : "6'0\"",
+          "weight" : "190",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_39997.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Couples",
+          "first_name" : "Fred",
+          "id" : "1226",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "F. Couples",
+          "name" : "Fred Couples",
+          "sort_name" : "couples",
+
+          
+
+          
+          "age" : "66",
+          "birthdate" : "10/3/59",
+          "height" : "5'11\"",
+          "weight" : "185",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_1226.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Day",
+          "first_name" : "Jason",
+          "id" : "28089",
+          
+          
+          "countryCode" : "AUS",
+          
+          "countryName" : "Australia",
+          "display_name" : "J. Day",
+          "name" : "Jason Day",
+          "sort_name" : "day",
+
+          
+
+          
+          "age" : "38",
+          "birthdate" : "11/12/87",
+          "height" : "6'0\"",
+          "weight" : "195",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_28089.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "DeChambeau",
+          "first_name" : "Bryson",
+          "id" : "47959",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "B. DeChambeau",
+          "name" : "Bryson DeChambeau",
+          "sort_name" : "dechambeau",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "9/16/93",
+          "height" : "6'1\"",
+          "weight" : "210",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_47959.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Echavarria",
+          "first_name" : "Nicolas",
+          "id" : "51349",
+          
+          
+          "countryCode" : "COL",
+          
+          "countryName" : "Colombia",
+          "display_name" : "N. Echavarria",
+          "name" : "Nicolas Echavarria",
+          "sort_name" : "echavarria",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "8/4/1993",
+          "height" : "6'0\"",
+          "weight" : "165",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_51349.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "English",
+          "first_name" : "Harris",
+          "id" : "34099",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "H. English",
+          "name" : "Harris English",
+          "sort_name" : "english",
+
+          
+
+          
+          "age" : "36",
+          "birthdate" : "7/23/89",
+          "height" : "6'3\"",
+          "weight" : "185",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_34099.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Fang",
+          "first_name" : "Ethan",
+          "id" : "68932",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "E. Fang",
+          "name" : "Ethan Fang",
+          "sort_name" : "fang",
+
+          
+
+          
+          "age" : "20",
+          "birthdate" : "5/6/05",
+          "height" : "6'0\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : true,
+          "Amateur" : "1",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_68932.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Fitzpatrick",
+          "first_name" : "Matt",
+          "id" : "40098",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "M. Fitzpatrick",
+          "name" : "Matt Fitzpatrick",
+          "sort_name" : "fitzpatrick",
+
+          
+
+          
+          "age" : "31",
+          "birthdate" : "9/1/94",
+          "height" : "5'10\"",
+          "weight" : "155",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_40098.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Fleetwood",
+          "first_name" : "Tommy",
+          "id" : "30911",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "T. Fleetwood",
+          "name" : "Tommy Fleetwood",
+          "sort_name" : "fleetwood",
+
+          
+
+          
+          "age" : "35",
+          "birthdate" : "1/19/91",
+          "height" : "5'11\"",
+          "weight" : "168",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_30911.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Fox",
+          "first_name" : "Ryan",
+          "id" : "29936",
+          
+          
+          "countryCode" : "NZL",
+          
+          "countryName" : "New Zealand",
+          "display_name" : "R. Fox",
+          "name" : "Ryan Fox",
+          "sort_name" : "fox",
+
+          
+
+          
+          "age" : "39",
+          "birthdate" : "1/22/87",
+          "height" : "6'0\"",
+          "weight" : "220",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_29936.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "GarcÃ­a",
+          "first_name" : "Sergio",
+          "id" : "21209",
+          
+          
+          "countryCode" : "ESP",
+          
+          "countryName" : "Spain",
+          "display_name" : "S. GarcÃ­a",
+          "name" : "Sergio GarcÃ­a",
+          "sort_name" : "garcÃ­a",
+
+          
+
+          
+          "age" : "46",
+          "birthdate" : "1/9/80",
+          "height" : "5'10\"",
+          "weight" : "180",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_21209.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Gerard",
+          "first_name" : "Ryan",
+          "id" : "59018",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "R. Gerard",
+          "name" : "Ryan Gerard",
+          "sort_name" : "gerard",
+
+          
+
+          
+          "age" : "26",
+          "birthdate" : "8/2/99",
+          "height" : "6'2\"",
+          "weight" : "175",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_59018.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Gotterup",
+          "first_name" : "Chris",
+          "id" : "59095",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "C. Gotterup",
+          "name" : "Chris Gotterup",
+          "sort_name" : "gotterup",
+
+          
+
+          
+          "age" : "26",
+          "birthdate" : "7/20/99",
+          "height" : "6'0\"",
+          "weight" : "210",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_59095.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Greyserman",
+          "first_name" : "Max",
+          "id" : "51977",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "M. Greyserman",
+          "name" : "Max Greyserman",
+          "sort_name" : "greyserman",
+
+          
+
+          
+          "age" : "30",
+          "birthdate" : "5/31/95",
+          "height" : "5'10\"",
+          "weight" : "180",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_51977.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Griffin",
+          "first_name" : "Ben",
+          "id" : "54591",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "B. Griffin",
+          "name" : "Ben Griffin",
+          "sort_name" : "griffin",
+
+          
+
+          
+          "age" : "29",
+          "birthdate" : "5/6/96",
+          "height" : "6'1\"",
+          "weight" : "185",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_54591.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Hall",
+          "first_name" : "Harry",
+          "id" : "57975",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "H. Hall",
+          "name" : "Harry Hall",
+          "sort_name" : "hall",
+
+          
+
+          
+          "age" : "28",
+          "birthdate" : "8/6/97",
+          "height" : "6'4\"",
+          "weight" : "225",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_57975.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Harman",
+          "first_name" : "Brian",
+          "id" : "27644",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "B. Harman",
+          "name" : "Brian Harman",
+          "sort_name" : "harman",
+
+          
+
+          
+          "age" : "39",
+          "birthdate" : "1/19/87",
+          "height" : "5'7\"",
+          "weight" : "150",
+          "swing" : "Left",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_27644.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Hatton",
+          "first_name" : "Tyrrell",
+          "id" : "34363",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "T. Hatton",
+          "name" : "Tyrrell Hatton",
+          "sort_name" : "hatton",
+
+          
+
+          
+          "age" : "34",
+          "birthdate" : "10/14/91",
+          "height" : "5'9\"",
+          "weight" : "161",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_34363.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Henley",
+          "first_name" : "Russell",
+          "id" : "34098",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "R. Henley",
+          "name" : "Russell Henley",
+          "sort_name" : "henley",
+
+          
+
+          
+          "age" : "36",
+          "birthdate" : "4/12/89",
+          "height" : "6'0\"",
+          "weight" : "180",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_34098.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Herrington",
+          "first_name" : "Jackson",
+          "id" : "70148",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "J. Herrington",
+          "name" : "Jackson Herrington",
+          "sort_name" : "herrington",
+
+          
+
+          
+          "age" : "19",
+          "birthdate" : "4/24/06",
+          "height" : "6'0\"",
+          "weight" : "",
+          "swing" : "Left",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : true,
+          "Amateur" : "1",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_70148.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "HÃ¸jgaard",
+          "first_name" : "Nicolai",
+          "id" : "52453",
+          
+          
+          "countryCode" : "DEN",
+          
+          "countryName" : "Denmark",
+          "display_name" : "N. HÃ¸jgaard",
+          "name" : "Nicolai HÃ¸jgaard",
+          "sort_name" : "hojgaard",
+
+          
+
+          
+          "age" : "25",
+          "birthdate" : "3/12/01",
+          "height" : "6'2\"",
+          "weight" : "193",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_52453.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "HÃ¸jgaard",
+          "first_name" : "Rasmus",
+          "id" : "52686",
+          
+          
+          "countryCode" : "DEN",
+          
+          "countryName" : "Denmark",
+          "display_name" : "R. HÃ¸jgaard",
+          "name" : "Rasmus HÃ¸jgaard",
+          "sort_name" : "hojgaard",
+
+          
+
+          
+          "age" : "25",
+          "birthdate" : "3/12/01",
+          "height" : "6'1\"",
+          "weight" : "187",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_52686.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Holtz",
+          "first_name" : "Brandon",
+          "id" : "70147",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "B. Holtz",
+          "name" : "Brandon Holtz",
+          "sort_name" : "holtz",
+
+          
+
+          
+          "age" : "39",
+          "birthdate" : "9/24/86",
+          "height" : "6'4\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : true,
+          "Amateur" : "1",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_70147.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Homa",
+          "first_name" : "Max",
+          "id" : "39977",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "M. Homa",
+          "name" : "Max Homa",
+          "sort_name" : "homa",
+
+          
+
+          
+          "age" : "35",
+          "birthdate" : "11/19/90",
+          "height" : "6'1\"",
+          "weight" : "180",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_39977.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Hovland",
+          "first_name" : "Viktor",
+          "id" : "46717",
+          
+          
+          "countryCode" : "NOR",
+          
+          "countryName" : "Norway",
+          "display_name" : "V. Hovland",
+          "name" : "Viktor Hovland",
+          "sort_name" : "hovland",
+
+          
+
+          
+          "age" : "28",
+          "birthdate" : "9/18/97",
+          "height" : "5'10\"",
+          "weight" : "165",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_46717.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Howell",
+          "first_name" : "Mason",
+          "id" : "68607",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "M. Howell",
+          "name" : "Mason Howell",
+          "sort_name" : "howell",
+
+          
+
+          
+          "age" : "18",
+          "birthdate" : "6/28/07",
+          "height" : "6'4\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : true,
+          "Amateur" : "1",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_68607.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Im",
+          "first_name" : "Sungjae",
+          "id" : "39971",
+          
+          
+          "countryCode" : "KOR",
+          
+          "countryName" : "Korea",
+          "display_name" : "S. Im",
+          "name" : "Sungjae Im",
+          "sort_name" : "im",
+
+          
+
+          
+          "age" : "28",
+          "birthdate" : "3/30/98",
+          "height" : "6'0\"",
+          "weight" : "200",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_39971.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Jarvis",
+          "first_name" : "Casey",
+          "id" : "57688",
+          
+          
+          "countryCode" : "RSA",
+          
+          "countryName" : "South Africa",
+          "display_name" : "C. Jarvis",
+          "name" : "Casey Jarvis",
+          "sort_name" : "jarvis",
+
+          
+
+          
+          "age" : "22",
+          "birthdate" : "7/28/2003",
+          "height" : "6'1\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_57688.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Johnson",
+          "first_name" : "Dustin",
+          "id" : "30925",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "D. Johnson",
+          "name" : "Dustin Johnson",
+          "sort_name" : "johnson d",
+
+          
+
+          
+          "age" : "41",
+          "birthdate" : "6/22/84",
+          "height" : "6'4\"",
+          "weight" : "190",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_30925.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Johnson",
+          "first_name" : "Zach",
+          "id" : "24024",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "Z. Johnson",
+          "name" : "Zach Johnson",
+          "sort_name" : "johnson z",
+
+          
+
+          
+          "age" : "50",
+          "birthdate" : "2/24/76",
+          "height" : "5'11\"",
+          "weight" : "164",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_24024.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Kataoka",
+          "first_name" : "Naoyuki",
+          "id" : "46879",
+          
+          
+          "countryCode" : "JPN",
+          
+          "countryName" : "Japan",
+          "display_name" : "N. Kataoka",
+          "name" : "Naoyuki Kataoka",
+          "sort_name" : "kataoka",
+
+          
+
+          
+          "age" : "28",
+          "birthdate" : "12/28/97",
+          "height" : "5'7\"",
+          "weight" : "148",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_46879.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Keefer",
+          "first_name" : "John",
+          "id" : "63454",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "J. Keefer",
+          "name" : "John Keefer",
+          "sort_name" : "keefer",
+
+          
+
+          
+          "age" : "25",
+          "birthdate" : "1/11/01",
+          "height" : "5'11\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_63454.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Kim",
+          "first_name" : "Michael",
+          "id" : "39975",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "M. Kim",
+          "name" : "Michael Kim",
+          "sort_name" : "kim m",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "7/14/93",
+          "height" : "5'11\"",
+          "weight" : "165",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_39975.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Kim",
+          "first_name" : "Si Woo",
+          "id" : "37455",
+          
+          
+          "countryCode" : "KOR",
+          
+          "countryName" : "Korea",
+          "display_name" : "S. Kim",
+          "name" : "Si Woo Kim",
+          "sort_name" : "kim s",
+
+          
+
+          
+          "age" : "30",
+          "birthdate" : "6/28/95",
+          "height" : "5'11\"",
+          "weight" : "182",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_37455.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Kitayama",
+          "first_name" : "Kurt",
+          "id" : "48117",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "K. Kitayama",
+          "name" : "Kurt Kitayama",
+          "sort_name" : "kitayama",
+
+          
+
+          
+          "age" : "33",
+          "birthdate" : "1/14/93",
+          "height" : "5'7\"",
+          "weight" : "170",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_48117.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Knapp",
+          "first_name" : "Jake",
+          "id" : "47420",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "J. Knapp",
+          "name" : "Jake Knapp",
+          "sort_name" : "knapp",
+
+          
+
+          
+          "age" : "31",
+          "birthdate" : "5/31/94",
+          "height" : "5'11\"",
+          "weight" : "190",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_47420.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Koepka",
+          "first_name" : "Brooks",
+          "id" : "36689",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "B. Koepka",
+          "name" : "Brooks Koepka",
+          "sort_name" : "koepka",
+
+          
+
+          
+          "age" : "35",
+          "birthdate" : "5/3/90",
+          "height" : "6'0\"",
+          "weight" : "205",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_36689.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Laopakdee",
+          "first_name" : "Fifa",
+          "id" : "70146",
+          
+          
+          "countryCode" : "THA",
+          
+          "countryName" : "Thailand",
+          "display_name" : "F. Laopakdee",
+          "name" : "Fifa Laopakdee",
+          "sort_name" : "laopakdee",
+
+          
+
+          
+          "age" : "21",
+          "birthdate" : "3/2/05",
+          "height" : "6'0\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : true,
+          "Amateur" : "1",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_70146.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Lee",
+          "first_name" : "Min Woo",
+          "id" : "37378",
+          
+          
+          "countryCode" : "AUS",
+          
+          "countryName" : "Australia",
+          "display_name" : "M. Lee",
+          "name" : "Min Woo Lee",
+          "sort_name" : "lee",
+
+          
+
+          
+          "age" : "27",
+          "birthdate" : "7/27/98",
+          "height" : "6'0\"",
+          "weight" : "165",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_37378.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Li",
+          "first_name" : "Haotong",
+          "id" : "35296",
+          
+          
+          "countryCode" : "CHN",
+          
+          "countryName" : "China",
+          "display_name" : "H. Li",
+          "name" : "Haotong Li",
+          "sort_name" : "li",
+
+          
+
+          
+          "age" : "30",
+          "birthdate" : "8/3/95",
+          "height" : "6'1\"",
+          "weight" : "198",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_35296.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Lowry",
+          "first_name" : "Shane",
+          "id" : "33204",
+          
+          
+          "countryCode" : "IRL",
+          
+          "countryName" : "Ireland",
+          "display_name" : "S. Lowry",
+          "name" : "Shane Lowry",
+          "sort_name" : "lowry",
+
+          
+
+          
+          "age" : "39",
+          "birthdate" : "4/2/87",
+          "height" : "6'1\"",
+          "weight" : "216",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_33204.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "MacIntyre",
+          "first_name" : "Robert",
+          "id" : "52215",
+          
+          
+          "countryCode" : "SCO",
+          
+          "countryName" : "Scotland",
+          "display_name" : "R. MacIntyre",
+          "name" : "Robert MacIntyre",
+          "sort_name" : "macintyre",
+
+          
+
+          
+          "age" : "29",
+          "birthdate" : "8/3/96",
+          "height" : "5'10\"",
+          "weight" : "",
+          "swing" : "Left",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_52215.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Matsuyama",
+          "first_name" : "Hideki",
+          "id" : "32839",
+          
+          
+          "countryCode" : "JPN",
+          
+          "countryName" : "Japan",
+          "display_name" : "H. Matsuyama",
+          "name" : "Hideki Matsuyama",
+          "sort_name" : "matsuyama",
+
+          
+
+          
+          "age" : "34",
+          "birthdate" : "2/25/92",
+          "height" : "5'11\"",
+          "weight" : "198",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_32839.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "McCarty",
+          "first_name" : "Matt",
+          "id" : "59141",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "M. McCarty",
+          "name" : "Matt McCarty",
+          "sort_name" : "mccarty",
+
+          
+
+          
+          "age" : "28",
+          "birthdate" : "12/11/97",
+          "height" : "6'0\"",
+          "weight" : "185",
+          "swing" : "Left",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_59141.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "McIlroy",
+          "first_name" : "Rory",
+          "id" : "28237",
+          
+          
+          "countryCode" : "NIR",
+          
+          "countryName" : "Northern Ireland",
+          "display_name" : "R. McIlroy",
+          "name" : "Rory McIlroy",
+          "sort_name" : "mcilroy",
+
+          
+
+          
+          "age" : "36",
+          "birthdate" : "5/4/89",
+          "height" : "5'10\"",
+          "weight" : "160",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_28237.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "McKibbin",
+          "first_name" : "Tom",
+          "id" : "50823",
+          
+          
+          "countryCode" : "NIR",
+          
+          "countryName" : "Northern Ireland",
+          "display_name" : "T. McKibbin",
+          "name" : "Tom McKibbin",
+          "sort_name" : "mckibbin",
+
+          
+
+          
+          "age" : "23",
+          "birthdate" : "12/19/02",
+          "height" : "6'0\"",
+          "weight" : "160",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_50823.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "McNealy",
+          "first_name" : "Maverick",
+          "id" : "46442",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "M. McNealy",
+          "name" : "Maverick McNealy",
+          "sort_name" : "mcnealy",
+
+          
+
+          
+          "age" : "30",
+          "birthdate" : "11/7/95",
+          "height" : "6'1\"",
+          "weight" : "170",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_46442.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Morikawa",
+          "first_name" : "Collin",
+          "id" : "50525",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "C. Morikawa",
+          "name" : "Collin Morikawa",
+          "sort_name" : "morikawa",
+
+          
+
+          
+          "age" : "29",
+          "birthdate" : "2/6/97",
+          "height" : "5'9\"",
+          "weight" : "160",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_50525.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Neergaard-Petersen",
+          "first_name" : "Rasmus",
+          "id" : "52689",
+          
+          
+          "countryCode" : "DEN",
+          
+          "countryName" : "Denmark",
+          "display_name" : "R. Neergaard-Petersen",
+          "name" : "Rasmus Neergaard-Petersen",
+          "sort_name" : "neergaard-petersen",
+
+          
+
+          
+          "age" : "26",
+          "birthdate" : "7/3/99",
+          "height" : "5'10\"",
+          "weight" : "155",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_52689.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Noren",
+          "first_name" : "Alex",
+          "id" : "27349",
+          
+          
+          "countryCode" : "SWE",
+          
+          "countryName" : "Sweden",
+          "display_name" : "A. Noren",
+          "name" : "Alex Noren",
+          "sort_name" : "noren",
+
+          
+
+          
+          "age" : "43",
+          "birthdate" : "7/12/82",
+          "height" : "5'11\"",
+          "weight" : "165",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_27349.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Novak",
+          "first_name" : "Andrew",
+          "id" : "51997",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "A. Novak",
+          "name" : "Andrew Novak",
+          "sort_name" : "novak",
+
+          
+
+          
+          "age" : "31",
+          "birthdate" : "3/31/95",
+          "height" : "6'2\"",
+          "weight" : "205",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_51997.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "OlazÃ¡bal",
+          "first_name" : "JosÃ© MarÃ­a",
+          "id" : "6373",
+          
+          
+          "countryCode" : "ESP",
+          
+          "countryName" : "Spain",
+          "display_name" : "J. OlazÃ¡bal",
+          "name" : "JosÃ© MarÃ­a OlazÃ¡bal",
+          "sort_name" : "olazÃ¡bal",
+
+          
+
+          
+          "age" : "60",
+          "birthdate" : "2/5/66",
+          "height" : "5'10\"",
+          "weight" : "160",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "2",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_6373.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Ortiz",
+          "first_name" : "Carlos",
+          "id" : "33667",
+          
+          
+          "countryCode" : "MEX",
+          
+          "countryName" : "Mexico",
+          "display_name" : "C. Ortiz",
+          "name" : "Carlos Ortiz",
+          "sort_name" : "ortiz",
+
+          
+
+          
+          "age" : "34",
+          "birthdate" : "4/24/91",
+          "height" : "6'0\"",
+          "weight" : "150",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_33667.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Penge",
+          "first_name" : "Marco",
+          "id" : "51003",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "M. Penge",
+          "name" : "Marco Penge",
+          "sort_name" : "penge",
+
+          
+
+          
+          "age" : "27",
+          "birthdate" : "5/15/98",
+          "height" : "6'1\"",
+          "weight" : "178",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_51003.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Potgieter",
+          "first_name" : "Aldrich",
+          "id" : "63343",
+          
+          
+          "countryCode" : "RSA",
+          
+          "countryName" : "South Africa",
+          "display_name" : "A. Potgieter",
+          "name" : "Aldrich Potgieter",
+          "sort_name" : "potgieter",
+
+          
+
+          
+          "age" : "21",
+          "birthdate" : "9/13/04",
+          "height" : "5'11\"",
+          "weight" : "211",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_63343.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Pulcini",
+          "first_name" : "Mateo",
+          "id" : "70145",
+          
+          
+          "countryCode" : "ARG",
+          
+          "countryName" : "Argentina",
+          "display_name" : "M. Pulcini",
+          "name" : "Mateo Pulcini",
+          "sort_name" : "pulcini",
+
+          
+
+          
+          "age" : "25",
+          "birthdate" : "8/30/00",
+          "height" : "6'1\"",
+          "weight" : "",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : true,
+          "Amateur" : "1",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_70145.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Rahm",
+          "first_name" : "Jon",
+          "id" : "46970",
+          
+          
+          "countryCode" : "ESP",
+          
+          "countryName" : "Spain",
+          "display_name" : "J. Rahm",
+          "name" : "Jon Rahm",
+          "sort_name" : "rahm",
+
+          
+
+          
+          "age" : "31",
+          "birthdate" : "11/10/94",
+          "height" : "6'2\"",
+          "weight" : "220",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_46970.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Rai",
+          "first_name" : "Aaron",
+          "id" : "46414",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "A. Rai",
+          "name" : "Aaron Rai",
+          "sort_name" : "rai",
+
+          
+
+          
+          "age" : "31",
+          "birthdate" : "3/3/95",
+          "height" : "5'11\"",
+          "weight" : "168",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_46414.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Reed",
+          "first_name" : "Patrick",
+          "id" : "34360",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "P. Reed",
+          "name" : "Patrick Reed",
+          "sort_name" : "reed",
+
+          
+
+          
+          "age" : "35",
+          "birthdate" : "8/5/90",
+          "height" : "6'0\"",
+          "weight" : "200",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_34360.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Reitan",
+          "first_name" : "Kristoffer",
+          "id" : "49855",
+          
+          
+          "countryCode" : "NOR",
+          
+          "countryName" : "Norway",
+          "display_name" : "K. Reitan",
+          "name" : "Kristoffer Reitan",
+          "sort_name" : "reitan",
+
+          
+
+          
+          "age" : "28",
+          "birthdate" : "3/8/98",
+          "height" : "6'1\"",
+          "weight" : "182",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_49855.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Riley",
+          "first_name" : "Davis",
+          "id" : "47995",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "D. Riley",
+          "name" : "Davis Riley",
+          "sort_name" : "riley",
+
+          
+
+          
+          "age" : "29",
+          "birthdate" : "12/17/96",
+          "height" : "6'0\"",
+          "weight" : "175",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_47995.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Rose",
+          "first_name" : "Justin",
+          "id" : "22405",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "J. Rose",
+          "name" : "Justin Rose",
+          "sort_name" : "rose",
+
+          
+
+          
+          "age" : "45",
+          "birthdate" : "7/30/80",
+          "height" : "6'3\"",
+          "weight" : "195",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_22405.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Schauffele",
+          "first_name" : "Xander",
+          "id" : "48081",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "X. Schauffele",
+          "name" : "Xander Schauffele",
+          "sort_name" : "schauffele",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "10/25/93",
+          "height" : "5'10\"",
+          "weight" : "175",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_48081.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Scheffler",
+          "first_name" : "Scottie",
+          "id" : "46046",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "S. Scheffler",
+          "name" : "Scottie Scheffler",
+          "sort_name" : "scheffler",
+
+          
+
+          
+          "age" : "29",
+          "birthdate" : "6/21/96",
+          "height" : "6'3\"",
+          "weight" : "200",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "2",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_46046.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Schwartzel",
+          "first_name" : "Charl",
+          "id" : "26331",
+          
+          
+          "countryCode" : "RSA",
+          
+          "countryName" : "South Africa",
+          "display_name" : "C. Schwartzel",
+          "name" : "Charl Schwartzel",
+          "sort_name" : "schwartzel",
+
+          
+
+          
+          "age" : "41",
+          "birthdate" : "8/31/84",
+          "height" : "5'11\"",
+          "weight" : "160",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_26331.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Scott",
+          "first_name" : "Adam",
+          "id" : "24502",
+          
+          
+          "countryCode" : "AUS",
+          
+          "countryName" : "Australia",
+          "display_name" : "A. Scott",
+          "name" : "Adam Scott",
+          "sort_name" : "scott",
+
+          
+
+          
+          "age" : "45",
+          "birthdate" : "7/16/80",
+          "height" : "6'0\"",
+          "weight" : "180",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_24502.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Singh",
+          "first_name" : "Vijay",
+          "id" : "6567",
+          
+          
+          "countryCode" : "FIJ",
+          
+          "countryName" : "Fiji",
+          "display_name" : "V. Singh",
+          "name" : "Vijay Singh",
+          "sort_name" : "singh",
+
+          
+
+          
+          "age" : "63",
+          "birthdate" : "2/22/63",
+          "height" : "6'2\"",
+          "weight" : "208",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_6567.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Smith",
+          "first_name" : "Cameron",
+          "id" : "35891",
+          
+          
+          "countryCode" : "AUS",
+          
+          "countryName" : "Australia",
+          "display_name" : "C. Smith",
+          "name" : "Cameron Smith",
+          "sort_name" : "smith",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "8/18/93",
+          "height" : "5'11\"",
+          "weight" : "172",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_35891.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Spaun",
+          "first_name" : "J.J.",
+          "id" : "39324",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "J. Spaun",
+          "name" : "J.J. Spaun",
+          "sort_name" : "spaun",
+
+          
+
+          
+          "age" : "35",
+          "birthdate" : "8/21/90",
+          "height" : "5'9\"",
+          "weight" : "185",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_39324.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Spieth",
+          "first_name" : "Jordan",
+          "id" : "34046",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "J. Spieth",
+          "name" : "Jordan Spieth",
+          "sort_name" : "spieth",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "7/27/93",
+          "height" : "6'1\"",
+          "weight" : "175",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_34046.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Stevens",
+          "first_name" : "Samuel",
+          "id" : "55893",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "S. Stevens",
+          "name" : "Samuel Stevens",
+          "sort_name" : "stevens",
+
+          
+
+          
+          "age" : "29",
+          "birthdate" : "7/4/96",
+          "height" : "6'1\"",
+          "weight" : "190",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_55893.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Straka",
+          "first_name" : "Sepp",
+          "id" : "49960",
+          
+          
+          "countryCode" : "AUT",
+          
+          "countryName" : "Austria",
+          "display_name" : "S. Straka",
+          "name" : "Sepp Straka",
+          "sort_name" : "straka",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "5/1/93",
+          "height" : "6'3\"",
+          "weight" : "235",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_49960.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Taylor",
+          "first_name" : "Nick",
+          "id" : "25493",
+          
+          
+          "countryCode" : "CAN",
+          
+          "countryName" : "Canada",
+          "display_name" : "N. Taylor",
+          "name" : "Nick Taylor",
+          "sort_name" : "taylor",
+
+          
+
+          
+          "age" : "37",
+          "birthdate" : "4/14/88",
+          "height" : "6'0\"",
+          "weight" : "170",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_25493.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Thomas",
+          "first_name" : "Justin",
+          "id" : "33448",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "J. Thomas",
+          "name" : "Justin Thomas",
+          "sort_name" : "thomas",
+
+          
+
+          
+          "age" : "32",
+          "birthdate" : "4/29/93",
+          "height" : "5'10\"",
+          "weight" : "160",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_33448.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Valimaki",
+          "first_name" : "Sami",
+          "id" : "52666",
+          
+          
+          "countryCode" : "FIN",
+          
+          "countryName" : "Finland",
+          "display_name" : "S. Valimaki",
+          "name" : "Sami Valimaki",
+          "sort_name" : "valimaki",
+
+          
+
+          
+          "age" : "27",
+          "birthdate" : "7/16/98",
+          "height" : "6'2\"",
+          "weight" : "233",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : true,
+          
+          "international" : true,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_52666.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Watson",
+          "first_name" : "Bubba",
+          "id" : "25804",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "B. Watson",
+          "name" : "Bubba Watson",
+          "sort_name" : "watson",
+
+          
+
+          
+          "age" : "47",
+          "birthdate" : "11/5/78",
+          "height" : "6'3\"",
+          "weight" : "180",
+          "swing" : "Left",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "2",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_25804.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Weir",
+          "first_name" : "Mike",
+          "id" : "10423",
+          
+          
+          "countryCode" : "CAN",
+          
+          "countryName" : "Canada",
+          "display_name" : "M. Weir",
+          "name" : "Mike Weir",
+          "sort_name" : "weir",
+
+          
+
+          
+          "age" : "55",
+          "birthdate" : "5/12/70",
+          "height" : "5'9\"",
+          "weight" : "155",
+          "swing" : "Left",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_10423.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Willett",
+          "first_name" : "Danny",
+          "id" : "32139",
+          
+          
+          "countryCode" : "ENG",
+          
+          "countryName" : "England",
+          "display_name" : "D. Willett",
+          "name" : "Danny Willett",
+          "sort_name" : "willett",
+
+          
+
+          
+          "age" : "38",
+          "birthdate" : "10/3/87",
+          "height" : "5'11\"",
+          "weight" : "170",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : true,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : true,
+          "masters_wins" : "1",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_32139.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Woodland",
+          "first_name" : "Gary",
+          "id" : "31323",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "G. Woodland",
+          "name" : "Gary Woodland",
+          "sort_name" : "woodland",
+
+          
+
+          
+          "age" : "41",
+          "birthdate" : "5/21/84",
+          "height" : "6'1\"",
+          "weight" : "195",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_31323.html",
+          "image": false
+        },
+
+        {
+          "last_name" : "Young",
+          "first_name" : "Cameron",
+          "id" : "57366",
+          
+          
+          "countryCode" : "USA",
+          
+          "countryName" : "United States",
+          "display_name" : "C. Young",
+          "name" : "Cameron Young",
+          "sort_name" : "young",
+
+          
+
+          
+          "age" : "28",
+          "birthdate" : "5/7/97",
+          "height" : "5'11\"",
+          "weight" : "185",
+          "swing" : "Right",
+          "stats" : false,
+          "past_champion" : false,
+          
+          "amateur" : false,
+          "Amateur" : "",
+          "first_masters" : false,
+          
+          "international" : false,
+          "masters_wins" : "",
+          "real_player" : true,
+          "dq" : false,
+          "wd" : false,
+          "share_url" : "https://www.masters.com/en_US/players/player_57366.html",
+          "image": false
+        }
+    ],
+
+    "past_champions_not_competing" :[
+      
+        {
+          "firstname" : "Tommy",
+          "lastname" : "Aaron"
+
+        },
+        {
+          "firstname" : "Charles",
+          "lastname" : "Coody"
+
+        },
+        {
+          "firstname" : "Ben",
+          "lastname" : "Crenshaw"
+
+        },
+        {
+          "firstname" : "Nick",
+          "lastname" : "Faldo"
+
+        },
+        {
+          "firstname" : "Raymond",
+          "lastname" : "Floyd"
+
+        },
+        {
+          "firstname" : "Trevor",
+          "lastname" : "Immelman"
+
+        },
+        {
+          "firstname" : "Bernhard",
+          "lastname" : "Langer"
+
+        },
+        {
+          "firstname" : "Sandy",
+          "lastname" : "Lyle"
+
+        },
+        {
+          "firstname" : "Phil",
+          "lastname" : "Mickelson"
+
+        },
+        {
+          "firstname" : "Larry",
+          "lastname" : "Mize"
+
+        },
+        {
+          "firstname" : "Jack",
+          "lastname" : "Nicklaus"
+
+        },
+        {
+          "firstname" : "Mark",
+          "lastname" : "O'Meara"
+
+        },
+        {
+          "firstname" : "Gary",
+          "lastname" : "Player"
+
+        },
+        {
+          "firstname" : "Craig",
+          "lastname" : "Stadler"
+
+        },
+        {
+          "firstname" : "Tom",
+          "lastname" : "Watson"
+
+        },
+        {
+          "firstname" : "Tiger",
+          "lastname" : "Woods"
+
+        },
+        {
+          "firstname" : "Ian",
+          "lastname" : "Woosnam"
+
+        }
+  ]
+
+}
+  
